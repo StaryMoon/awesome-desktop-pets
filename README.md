@@ -49,6 +49,7 @@ Builder notes: [docs/builder-guide.md](docs/builder-guide.md)
 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | ActionScript | Cockroach desktop pet. Weird, memorable, and very desktop-pet-coded. |
 | [Maltese_DesktopPet](https://github.com/Jimmmmmies/Maltese_DesktopPet) | Python | PyQt5 desktop pet themed around a small white dog character. |
 | [desktop-pet](https://github.com/datawhalechina/desktop-pet) | Python | Minimal desktop pet demo with Wenxin Yiyan and Raspberry Pi Pico. |
+| [Desktop Cat](https://github.com/wt0812/desktop-cat) | C# / PowerShell | Single-file Windows pixel cat: no installer, no network, 12 animations, persisted position and affection. |
 
 ### Runners and Frameworks
 

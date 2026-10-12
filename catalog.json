@@ -145,5 +145,12 @@
     "category": "ai-companion",
     "stack": "Python",
     "note": "Python desktop pet experiment with ChatGPT support."
+  },
+{
+    "name": "desktop-cat",
+    "url": "https://github.com/wt0812/desktop-cat",
+    "category": "classic-pet",
+    "stack": "C#",
+    "note": "Single-file Windows desktop pixel cat: no installer, no network, 12 animations, persisted position and affection."
   }
 ]
