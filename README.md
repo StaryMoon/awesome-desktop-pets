@@ -48,6 +48,7 @@ Builder notes: [docs/builder-guide.md](docs/builder-guide.md)
 | [Ark-Pets](https://github.com/isHarryh/Ark-Pets) | Java | Arknights desktop pets. |
 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | ActionScript | Cockroach desktop pet. Weird, memorable, and very desktop-pet-coded. |
 | [Maltese_DesktopPet](https://github.com/Jimmmmmies/Maltese_DesktopPet) | Python | PyQt5 desktop pet themed around a small white dog character. |
+| [Kafka Desktop Pet](https://github.com/capwitf/kafka-desktop-pet) | Python / Win32 | Unofficial Kafka (*Honkai: Star Rail*) fan pet for Windows with transparent keyboard and mouse sprite animations. |
 | [desktop-pet](https://github.com/datawhalechina/desktop-pet) | Python | Minimal desktop pet demo with Wenxin Yiyan and Raspberry Pi Pico. |
 
 ### Runners and Frameworks

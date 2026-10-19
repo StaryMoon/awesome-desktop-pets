@@ -133,6 +133,13 @@
     "note": "PyQt5 desktop pet themed around a small white dog character."
   },
   {
+    "name": "Kafka Desktop Pet",
+    "url": "https://github.com/capwitf/kafka-desktop-pet",
+    "category": "character-pet",
+    "stack": "Python / Win32",
+    "note": "Unofficial Kafka (Honkai: Star Rail) fan pet for Windows with transparent keyboard and mouse sprite animations."
+  },
+  {
     "name": "datawhalechina/desktop-pet",
     "url": "https://github.com/datawhalechina/desktop-pet",
     "category": "education-demo",
