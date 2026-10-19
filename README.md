@@ -67,6 +67,7 @@ Builder notes: [docs/builder-guide.md](docs/builder-guide.md)
 |---|---|---|
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Swift/AppKit | macOS glass desktop planner with recurring tasks, desktop pin behavior, and a tiny desktop pet. |
 | [myCat](https://github.com/yumiaura/myCat) | Python | Qt overlay desktop cat with a strong small-tool vibe. |
+| [SelectSpeak](https://github.com/yuehua-meng/select-speak) | Electron/TypeScript | Windows English read-aloud tool with offline Kokoro speech and an interactive fluffy desktop companion. |
 | [pet-therapy](https://github.com/raman0c17/pet-therapy) | macOS | Desktop pets for macOS. |
 | [3d-desktop-pet](https://github.com/zlmica/3d-desktop-pet) | Vue | 3D desktop pet experiment that is useful as a web-rendered widget reference. |
 

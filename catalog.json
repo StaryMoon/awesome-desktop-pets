@@ -56,6 +56,13 @@
     "note": "Qt overlay desktop cat with a strong small-tool vibe."
   },
   {
+    "name": "SelectSpeak",
+    "url": "https://github.com/yuehua-meng/select-speak",
+    "category": "productivity-widget",
+    "stack": "Electron/TypeScript",
+    "note": "Windows English read-aloud tool with offline Kokoro speech and an interactive fluffy desktop companion."
+  },
+  {
     "name": "AI-Girlfriend-Desktop-Pet",
     "url": "https://github.com/DD-MASTERT/AI-Girlfriend-Desktop-Pet",
     "category": "ai-companion",
